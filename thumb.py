@@ -155,7 +155,7 @@ def save_templates(templates):
 st.sidebar.title("Thumbnail Settings")
 
 # Font directory
-custom_font_dir = r"C:\Users\Lekside Nation\Desktop\Python Project\video tb\fonts"
+custom_font_dir = "fonts/"
 font_files = get_font_files(custom_font_dir)
 
 # Text Content
